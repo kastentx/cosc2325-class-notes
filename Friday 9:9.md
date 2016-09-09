@@ -1,56 +1,56 @@
 # 1's and 0's
-	* actually representing electric pulses:
-		* 5.0 V for desktops
-		* 3.3 V for laptops
-	* Jon Von Neumann paper on how machines should be modeled after humans
+	+ actually representing electric pulses:
+		- 5.0 V for desktops
+		- 3.3 V for laptops
+	+ Jon Von Neumann paper on how machines should be modeled after humans
 
 # GNU C Compiler
-	* frontend for cc1
-	* run by the command 'gcc' -o <output filename> <inputFile.c>
+	+ frontend for cc1
+	+ run by the command 'gcc' -o <output filename> <inputFile.c>
 
 # Types of Errors
-	* **Syntactic** Errors
-	* **Semantic** Errors
+	+ **Syntactic** Errors
+	+ **Semantic** Errors
 
 # Make and Makefiles
-	* sets up how the source code will be handled and compiled
+	+ sets up how the source code will be handled and compiled
 
 # I.P.O.
-	* Input - Processing - Output
-		* Human Stuff -> Data
-			* Numbers
-				* Integers
-					* signed
-					* unsigned
-				* Floats
-					* single
-					* double
-			* Text
-			* Logic Values
+	+ Input - Processing - Output
+	+ Human Stuff -> Data
+		- Numbers
+			* Integers
+				* signed
+				* unsigned
+			* Floats
+				* single
+				* double
+		- Text
+		- Logic Values
 
-		* Processor Stuff -> Code
+	+ Processor Stuff -> Code
 
 # Numbers
-	* **base** means the number of symbals used
-	* biggest number you can write in n bits = 2^n - 1
+	+ **base** means the number of symbals used
+	+ biggest number you can write in n bits = 2^n - 1
 
 ## Binary
-	* Instead of 0-9, only use 0-1
-	* Binary uses **base 2** notation (8 digits AKA bits)
+	+ Instead of 0-9, only use 0-1
+	+ Binary uses **base 2** notation (8 digits AKA bits)
 ### Two's Complement Notation
-	* Two bits are added to a standard 8 bit number 
-	* To make the number negative, change the the leftmost bit to '1'
-	* Flip all the remaining bits to their opposite value (0's become 1, 1's become 0)
-	* 9th bit is extra and is not used
+	+ Two bits are added to a standard 8 bit number 
+	+ To make the number negative, change the the leftmost bit to '1'
+	+ Flip all the remaining bits to their opposite value (0's become 1, 1's become 0)
+	+ 9th bit is extra and is not used
 
 ## Hex
-	* Hexadecimal numbers use **base 6** notation
-		* allows you to represent a 4 bit quantity with one symbol
+	+ Hexadecimal numbers use **base 6** notation
+		- allows you to represent a 4 bit quantity with one symbol
 
 # Floating-point Decimals
-	* Uses Scientific Notation to represent decimal numbers
-		* **Mantissa** = significant number
-		* **Exponent** = decimal point adjustment
+	+ Uses Scientific Notation to represent decimal numbers
+		- **Mantissa** = significant number
+		- **Exponent** = decimal point adjustment
 
 # Symbols
-	* ASCII character set conatins 128 different Symbols
+	+ ASCII character set conatins 128 different Symbols
