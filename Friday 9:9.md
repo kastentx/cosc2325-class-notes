@@ -29,3 +29,23 @@
 			* Logic Values
 
 		* Processor Stuff -> Code
+
+# Numbers
+	* base means the number of symbals used
+	* biggest number you can write in n bits = 2^n - 1
+
+## Binary
+	* Instead of 0-9, only use 0-1
+	* Binary uses base 2 notation (8 digits AKA bits)
+### Two's Complement Notation
+	* Two bits are added to a standard 8 bit number 
+	* To make the number negative, change the the leftmost bit to '1'
+	* Flip all the remaining bits to their opposite value (0's become 1, 1's become 0)
+	* 9th bit is extra and is not used
+
+## Hex
+	* Hexadecimal numbers use base 6 notation
+		* allows you to represent a 4 bit quantity with one symbol
+
+# Symbols
+	* ASCII character set conatins 128 different Symbols
