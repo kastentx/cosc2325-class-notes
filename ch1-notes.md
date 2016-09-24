@@ -263,7 +263,7 @@
 5. Control
 
 > Here you can see the standard organization of a computer.
-![CH1 Big Picture - Five Classic Components](https://lh3.googleusercontent.com/ean4K6sBU-Lud3vvBdpcELQfUL7xquqN6Gtl43bhIH16Hrs3K3uZH8QOwnyRKVpQhxI3woNzLsYwruU=w2560-h1406-rw)
+![CH1 Big Picture - Five Classic Components](http://i.imgur.com/e4XAQMg.png)
 
 ## Acronyms
 
